@@ -1,5 +1,5 @@
 public class Car {
 	public int getWheels() {
-		return 5;
+		return 6;
 	}
 }
